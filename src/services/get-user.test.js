@@ -35,6 +35,6 @@ describe("get user service", () => {
     expect(error).toEqual({
       errorMessage: "404 not found",
     });
-    
+
   });
 });
